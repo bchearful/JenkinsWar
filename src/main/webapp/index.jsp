@@ -1,6 +1,7 @@
-
+<!DOCTYPE html>
 <html>
-
+  
+<head> <title> Jenkins Pipeline </title> </head>
 <body>
   <h2>Successfully Deployed War file....</h2>
   <%
