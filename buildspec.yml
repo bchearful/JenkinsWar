@@ -10,5 +10,5 @@ phases:
       - mvn package
 artifacts:
   files:
-  - /**/**/**/**/**/JenkinsWar.war
-   - /**/**/**/**/**/*.war
+  - target/SampleMavenTomcatApp.war
+ - '**/*'
