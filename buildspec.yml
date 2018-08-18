@@ -10,5 +10,4 @@ phases:
       - mvn package
 artifacts:
   files:
-  - target/SampleMavenTomcatApp.war
- - '**/*'
+- '**/*'
